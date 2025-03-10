@@ -12,9 +12,9 @@ public class CoinChangerV2 {
             int billetDeux      =  0;
             int billetUn        =  0;
 
-            int nombreBilletCinquante =  1;
+            int nombreBilletCinquante =  0;
             int nombreBilletVingt     =  5;
-            int nombreBilletDix       =  0;
+            int nombreBilletDix       =  3;
             int nombreBilletDeux      =  0;
             int nombreBilletUn        =  0;
 
